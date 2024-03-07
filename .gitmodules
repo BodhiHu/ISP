@@ -1,0 +1,9 @@
+[submodule "HDR-ISP"]
+	path = HDR-ISP
+	url = git@github.com:BodhiHu/HDR-ISP.git
+[submodule "ISPLab"]
+	path = ISPLab
+	url = git@github.com:BodhiHu/ISPLab.git
+[submodule "xkISP"]
+	path = xkISP
+	url = git@github.com:BodhiHu/xkISP.git
